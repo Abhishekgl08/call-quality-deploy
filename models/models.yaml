@@ -1,0 +1,23 @@
+models:
+  transcription:
+    repository: Systran/faster-whisper-small.en
+    revision: main
+    runtime: faster-whisper
+    device: cpu
+    compute_type: int8
+    cache_directory: models/faster-whisper
+    license: MIT
+    fallback: none
+  speaker_diarization:
+    repository: pyannote/speaker-diarization-community-1
+    runtime: optional-local
+    cache_directory: models/pyannote
+    license: CC-BY-4.0
+    fallback: neutral-speaker-labels-with-warning
+    enabled_by_default: false
+  call_analysis:
+    repository: nvidia/nemotron-3-super-120b-a12b:free
+    runtime: OpenRouter OpenAI-compatible chat completions
+    endpoint: https://openrouter.ai/api/v1/chat/completions
+    configured_by: LLM_MODEL
+    local_recordings_sent: transcript-only

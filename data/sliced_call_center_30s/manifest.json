@@ -1,0 +1,1953 @@
+{
+  "source": "C:\\Users\\HP\\Desktop\\new_project\\data\\Call center data samples",
+  "output": "C:\\Users\\HP\\Desktop\\new_project\\call_quality_project\\data\\sliced_call_center_30s",
+  "slice_seconds": 30,
+  "original_files": 11,
+  "slice_files": 216,
+  "items": [
+    {
+      "slice": "1735404531.458927_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0001_000000s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0002_000030s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0003_000060s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0004_000090s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0005_000120s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0006_000150s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0007_000180s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0008_000210s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0009_000240s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0010_000270s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0011_000300s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0012_000330s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0013_000360s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0014_000390s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0015_000420s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 420.0,
+      "end_seconds": 450.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0016_000450s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0016_000450s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 450.0,
+      "end_seconds": 480.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0017_000480s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0017_000480s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 480.0,
+      "end_seconds": 510.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0018_000510s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0018_000510s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 510.0,
+      "end_seconds": 540.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0019_000540s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0019_000540s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 540.0,
+      "end_seconds": 570.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0020_000570s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0020_000570s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 570.0,
+      "end_seconds": 600.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0021_000600s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0021_000600s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 600.0,
+      "end_seconds": 630.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0022_000630s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0022_000630s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 630.0,
+      "end_seconds": 660.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735404531.458927_part_0023_000660s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735404531.458927 (EN customer support )\\1735404531.458927_part_0023_000660s.mp3",
+      "source_file": "1735404531.458927.mp3",
+      "source_group": "1735404531.458927 (EN customer support )",
+      "start_seconds": 660.0,
+      "end_seconds": 689.76,
+      "duration_seconds": 29.76
+    },
+    {
+      "slice": "1735547939.459048_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0001_000000s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0002_000030s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0003_000060s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0004_000090s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0005_000120s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0006_000150s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0007_000180s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0008_000210s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0009_000240s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0010_000270s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0011_000300s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0012_000330s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0013_000360s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0014_000390s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0015_000420s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 420.0,
+      "end_seconds": 450.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0016_000450s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0016_000450s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 450.0,
+      "end_seconds": 480.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0017_000480s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0017_000480s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 480.0,
+      "end_seconds": 510.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0018_000510s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0018_000510s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 510.0,
+      "end_seconds": 540.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0019_000540s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0019_000540s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 540.0,
+      "end_seconds": 570.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735547939.459048_part_0020_000570s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735547939.459048 (RU Account manager Finance)\\1735547939.459048_part_0020_000570s.mp3",
+      "source_file": "1735547939.459048.mp3",
+      "source_group": "1735547939.459048 (RU Account manager Finance)",
+      "start_seconds": 570.0,
+      "end_seconds": 583.49,
+      "duration_seconds": 13.49
+    },
+    {
+      "slice": "1735556115.459244_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0001_000000s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0002_000030s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0003_000060s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0004_000090s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0005_000120s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0006_000150s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0007_000180s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0008_000210s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0009_000240s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0010_000270s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0011_000300s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0012_000330s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0013_000360s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0014_000390s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0015_000420s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 420.0,
+      "end_seconds": 450.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0016_000450s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0016_000450s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 450.0,
+      "end_seconds": 480.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0017_000480s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0017_000480s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 480.0,
+      "end_seconds": 510.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735556115.459244_part_0018_000510s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735556115.459244 (PL customer service)\\1735556115.459244_part_0018_000510s.mp3",
+      "source_file": "1735556115.459244.mp3",
+      "source_group": "1735556115.459244 (PL customer service)",
+      "start_seconds": 510.0,
+      "end_seconds": 526.82,
+      "duration_seconds": 16.82
+    },
+    {
+      "slice": "1735560973.459326_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0001_000000s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0002_000030s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0003_000060s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0004_000090s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0005_000120s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0006_000150s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0007_000180s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0008_000210s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0009_000240s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0010_000270s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0011_000300s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0012_000330s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0013_000360s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0014_000390s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0015_000420s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 420.0,
+      "end_seconds": 450.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0016_000450s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0016_000450s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 450.0,
+      "end_seconds": 480.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0017_000480s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0017_000480s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 480.0,
+      "end_seconds": 510.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0018_000510s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0018_000510s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 510.0,
+      "end_seconds": 540.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0019_000540s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0019_000540s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 540.0,
+      "end_seconds": 570.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0020_000570s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0020_000570s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 570.0,
+      "end_seconds": 600.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0021_000600s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0021_000600s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 600.0,
+      "end_seconds": 630.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0022_000630s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0022_000630s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 630.0,
+      "end_seconds": 660.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1735560973.459326_part_0023_000660s.mp3",
+      "path": "data\\sliced_call_center_30s\\1735560973.459326 (PL Account-Billing)\\1735560973.459326_part_0023_000660s.mp3",
+      "source_file": "1735560973.459326.mp3",
+      "source_group": "1735560973.459326 (PL Account-Billing)",
+      "start_seconds": 660.0,
+      "end_seconds": 688.54,
+      "duration_seconds": 28.54
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0001_000000s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0002_000030s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0003_000060s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0004_000090s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0005_000120s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0006_000150s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0007_000180s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0008_000210s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0009_000240s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0010_000270s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0011_000300s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0012_000330s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0013_000360s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0014_000390s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "2025-02-03 16_57_41_1738598261.49391_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598108.49385 (FR Customer Support Call)\\2025-02-03 16_57_41_1738598261.49391_part_0015_000420s.mp3",
+      "source_file": "2025-02-03 16_57_41_1738598261.49391.mp3",
+      "source_group": "1738598108.49385 (FR Customer Support Call)",
+      "start_seconds": 420.0,
+      "end_seconds": 433.58,
+      "duration_seconds": 13.58
+    },
+    {
+      "slice": "1738598261.49391_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0001_000000s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0002_000030s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0003_000060s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0004_000090s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0005_000120s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0006_000150s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0007_000180s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0008_000210s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0009_000240s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0010_000270s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0011_000300s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0012_000330s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0013_000360s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0014_000390s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1738598261.49391_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1738598261.49391 (FR Sale)\\1738598261.49391_part_0015_000420s.mp3",
+      "source_file": "1738598261.49391.mp3",
+      "source_group": "1738598261.49391 (FR Sale)",
+      "start_seconds": 420.0,
+      "end_seconds": 433.73,
+      "duration_seconds": 13.73
+    },
+    {
+      "slice": "1755884171.51632_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0001_000000s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0002_000030s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0003_000060s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0004_000090s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0005_000120s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0006_000150s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0007_000180s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0008_000210s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0009_000240s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0010_000270s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0011_000300s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0012_000330s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0013_000360s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0014_000390s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0015_000420s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 420.0,
+      "end_seconds": 450.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0016_000450s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0016_000450s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 450.0,
+      "end_seconds": 480.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0017_000480s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0017_000480s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 480.0,
+      "end_seconds": 510.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0018_000510s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0018_000510s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 510.0,
+      "end_seconds": 540.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0019_000540s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0019_000540s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 540.0,
+      "end_seconds": 570.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0020_000570s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0020_000570s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 570.0,
+      "end_seconds": 600.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0021_000600s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0021_000600s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 600.0,
+      "end_seconds": 630.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0022_000630s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0022_000630s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 630.0,
+      "end_seconds": 660.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0023_000660s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0023_000660s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 660.0,
+      "end_seconds": 690.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0024_000690s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0024_000690s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 690.0,
+      "end_seconds": 720.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0025_000720s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0025_000720s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 720.0,
+      "end_seconds": 750.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0026_000750s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0026_000750s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 750.0,
+      "end_seconds": 780.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0027_000780s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0027_000780s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 780.0,
+      "end_seconds": 810.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1755884171.51632_part_0028_000810s.mp3",
+      "path": "data\\sliced_call_center_30s\\1755884171.51632 (EN Support-Billing)\\1755884171.51632_part_0028_000810s.mp3",
+      "source_file": "1755884171.51632.mp3",
+      "source_group": "1755884171.51632 (EN Support-Billing)",
+      "start_seconds": 810.0,
+      "end_seconds": 836.21,
+      "duration_seconds": 26.21
+    },
+    {
+      "slice": "1756465406.16342_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0001_000000s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0002_000030s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0003_000060s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0004_000090s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0005_000120s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0006_000150s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0007_000180s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0008_000210s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0009_000240s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0010_000270s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756465406.16342_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756465406.16342 (RU Pharma Sale)\\1756465406.16342_part_0011_000300s.mp3",
+      "source_file": "1756465406.16342.mp3",
+      "source_group": "1756465406.16342 (RU Pharma Sale)",
+      "start_seconds": 300.0,
+      "end_seconds": 311.11,
+      "duration_seconds": 11.11
+    },
+    {
+      "slice": "1756469254.16578_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0001_000000s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0002_000030s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0003_000060s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0004_000090s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0005_000120s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0006_000150s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0007_000180s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0008_000210s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0009_000240s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0010_000270s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0011_000300s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0012_000330s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0013_000360s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0014_000390s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0015_000420s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 420.0,
+      "end_seconds": 450.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0016_000450s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0016_000450s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 450.0,
+      "end_seconds": 480.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0017_000480s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0017_000480s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 480.0,
+      "end_seconds": 510.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0018_000510s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0018_000510s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 510.0,
+      "end_seconds": 540.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0019_000540s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0019_000540s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 540.0,
+      "end_seconds": 570.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0020_000570s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0020_000570s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 570.0,
+      "end_seconds": 600.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1756469254.16578_part_0021_000600s.mp3",
+      "path": "data\\sliced_call_center_30s\\1756469254.16578 (DE Sale)\\1756469254.16578_part_0021_000600s.mp3",
+      "source_file": "1756469254.16578.mp3",
+      "source_group": "1756469254.16578 (DE Sale)",
+      "start_seconds": 600.0,
+      "end_seconds": 620.5,
+      "duration_seconds": 20.5
+    },
+    {
+      "slice": "1757078926.92210_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0001_000000s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0002_000030s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0003_000060s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0004_000090s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0005_000120s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0006_000150s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0007_000180s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0008_000210s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0009_000240s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0010_000270s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0011_000300s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0012_000330s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0013_000360s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0014_000390s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0015_000420s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 420.0,
+      "end_seconds": 450.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0016_000450s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0016_000450s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 450.0,
+      "end_seconds": 480.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0017_000480s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0017_000480s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 480.0,
+      "end_seconds": 510.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0018_000510s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0018_000510s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 510.0,
+      "end_seconds": 540.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0019_000540s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0019_000540s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 540.0,
+      "end_seconds": 570.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0020_000570s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0020_000570s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 570.0,
+      "end_seconds": 600.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0021_000600s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0021_000600s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 600.0,
+      "end_seconds": 630.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0022_000630s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0022_000630s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 630.0,
+      "end_seconds": 660.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757078926.92210_part_0023_000660s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757078926.92210 (ES Billing or Account Issue Call)\\1757078926.92210_part_0023_000660s.mp3",
+      "source_file": "1757078926.92210.mp3",
+      "source_group": "1757078926.92210 (ES Billing or Account Issue Call)",
+      "start_seconds": 660.0,
+      "end_seconds": 670.9,
+      "duration_seconds": 10.9
+    },
+    {
+      "slice": "1757338962.95612_part_0001_000000s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0001_000000s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 0.0,
+      "end_seconds": 30.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0002_000030s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0002_000030s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 30.0,
+      "end_seconds": 60.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0003_000060s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0003_000060s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 60.0,
+      "end_seconds": 90.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0004_000090s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0004_000090s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 90.0,
+      "end_seconds": 120.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0005_000120s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0005_000120s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 120.0,
+      "end_seconds": 150.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0006_000150s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0006_000150s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 150.0,
+      "end_seconds": 180.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0007_000180s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0007_000180s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 180.0,
+      "end_seconds": 210.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0008_000210s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0008_000210s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 210.0,
+      "end_seconds": 240.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0009_000240s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0009_000240s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 240.0,
+      "end_seconds": 270.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0010_000270s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0010_000270s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 270.0,
+      "end_seconds": 300.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0011_000300s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0011_000300s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 300.0,
+      "end_seconds": 330.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0012_000330s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0012_000330s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 330.0,
+      "end_seconds": 360.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0013_000360s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0013_000360s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 360.0,
+      "end_seconds": 390.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0014_000390s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0014_000390s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 390.0,
+      "end_seconds": 420.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0015_000420s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0015_000420s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 420.0,
+      "end_seconds": 450.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0016_000450s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0016_000450s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 450.0,
+      "end_seconds": 480.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0017_000480s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0017_000480s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 480.0,
+      "end_seconds": 510.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0018_000510s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0018_000510s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 510.0,
+      "end_seconds": 540.0,
+      "duration_seconds": 30
+    },
+    {
+      "slice": "1757338962.95612_part_0019_000540s.mp3",
+      "path": "data\\sliced_call_center_30s\\1757338962.95612 (Portuguese Sale)\\1757338962.95612_part_0019_000540s.mp3",
+      "source_file": "1757338962.95612.mp3",
+      "source_group": "1757338962.95612 (Portuguese Sale)",
+      "start_seconds": 540.0,
+      "end_seconds": 550.51,
+      "duration_seconds": 10.51
+    }
+  ]
+}

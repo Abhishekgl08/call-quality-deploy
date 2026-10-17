@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+outputs/
+logs/
+data/call_quality.sqlite3
+models/cache/
+.DS_Store
+.AppleDouble
+.LSOverride

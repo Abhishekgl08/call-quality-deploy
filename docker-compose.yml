@@ -1,0 +1,13 @@
+services:
+  call-quality:
+    build: .
+    ports:
+      - "8010:8010"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./outputs:/app/outputs
+      - ./logs:/app/logs
+      - ./models:/app/models
+    restart: unless-stopped

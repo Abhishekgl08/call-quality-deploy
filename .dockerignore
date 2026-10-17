@@ -1,0 +1,9 @@
+.venv
+.env
+__pycache__
+*.pyc
+.git
+logs
+outputs
+data/call_quality.sqlite3
+data/sliced_call_center_30s
